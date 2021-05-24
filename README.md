@@ -25,7 +25,7 @@ Com a aplicação clonada e todas as dependências instaladas você pode executa
 
 ### `yarn start`
 
-O servidor irá subir em http://localhost:3000/
+A aplicação rodará no endereço http://localhost:3000/
 
 ## Redes Sociais
 
