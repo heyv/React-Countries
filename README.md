@@ -1,3 +1,42 @@
+# React Countries
+> Projeto criado por Heyverson Arley como desafio de Bootcamp utilizando React Class-components.
+
+## Requisitos
+
++ [Node](https://nodejs.org/)
++ [React](https://reactjs.org/)
++ [Yarn](https://yarnpkg.com/)
+
+## Como Funciona a Aplicação
+
+Uma lista com as bandeiras dos países mostrando o total da população referente ao país onde se pode filtrar pelo nome.
+
+## Instalação
+
+Abra o terminal e digite:
+
+### `git clone  https://github.com/heyv/React-Countries.git`
+
+Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. Para isso, digite o comando abaixo e espere a instalação terminar:
+
+### `yarn`
+
+Com a aplicação clonada e todas as dependências instaladas você pode executar o comando abaixo para iniciar a aplicação:
+
+### `yarn start`
+
+O servidor irá subir em http://localhost:3000/
+
+## Redes Sociais
+
+heyverson20@gmail.com
+
+[Linkedin](https://www.linkedin.com/in/heyversonarley/)
+
+[GitHub](https://github.com/heyv)
+
+# React DOCS 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
